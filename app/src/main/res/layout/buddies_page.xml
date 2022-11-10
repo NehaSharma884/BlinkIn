@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SignUpUser">
 
     <GridLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -55,7 +55,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            app:cardBackgroundColor="@color/white"
+            app:cardBackgroundColor="@color/colorPrimary"
             app:cardCornerRadius="20dp"
             app:cardElevation="10dp"
             app:cardMaxElevation="12dp"
@@ -88,7 +88,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
 
@@ -102,7 +102,7 @@
                     android:forceHasOverlappingRendering="false"
 
                     android:text="Category-"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
                     android:textSize="20dp"
 
                     android:textStyle="bold" />
@@ -117,7 +117,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
 
@@ -145,7 +145,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            app:cardBackgroundColor="@color/white"
+            app:cardBackgroundColor="@color/colorPrimary"
             app:cardCornerRadius="20dp"
             app:cardElevation="10dp"
             app:cardMaxElevation="12dp"
@@ -177,7 +177,7 @@
                     android:forceHasOverlappingRendering="false"
 
                     android:text="Name-Tim"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
                     android:textSize="20dp"
 
                     android:textStyle="bold" />
@@ -193,7 +193,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
                 <TextView
@@ -207,7 +207,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
 
@@ -234,7 +234,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            app:cardBackgroundColor="@color/white"
+            app:cardBackgroundColor="@color/cardview_dark_background"
             app:cardCornerRadius="20dp"
             app:cardElevation="10dp"
             app:cardMaxElevation="12dp"
@@ -266,7 +266,7 @@
                     android:forceHasOverlappingRendering="false"
 
                     android:text="Name-Jeff"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
                     android:textSize="20dp"
 
                     android:textStyle="bold" />
@@ -282,7 +282,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
                 <TextView
@@ -296,7 +296,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
 
@@ -324,7 +324,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            app:cardBackgroundColor="@color/white"
+            app:cardBackgroundColor="@color/colorPrimary"
             app:cardCornerRadius="20dp"
             app:cardElevation="10dp"
             app:cardMaxElevation="12dp"
@@ -356,7 +356,7 @@
                     android:forceHasOverlappingRendering="false"
 
                     android:text="Name-Mona"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
                     android:textSize="20dp"
 
                     android:textStyle="bold" />
@@ -372,7 +372,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
                 <TextView
@@ -386,7 +386,7 @@
 
                     android:textSize="20dp"
                     android:forceHasOverlappingRendering="false"
-                    android:textColor="@color/black"
+                    android:textColor="@color/cardview_dark_background"
 
                     android:textStyle="bold" />
 

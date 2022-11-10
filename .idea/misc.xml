@@ -3,10 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout-land/information_page.xml" value="0.1" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_categories_list.xml" value="0.20985401459854014" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_listview.xml" value="0.1" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_listview_categories.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_register.xml" value="0.1" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_sub_category.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/activity_users_list.xml" value="0.1" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/buddies_page.xml" value="0.1" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/information_page.xml" value="0.1" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/item_user_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/login_page.xml" value="0.1" />
+        <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn/app/src/main/res/layout/signup_page.xml" value="0.1" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn2/app/src/main/res/layout-land/information_page.xml" value="0.15211640211640212" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn2/app/src/main/res/layout/activity_listview.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/hello/AndroidStudioProjects/BlinkIn2/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />

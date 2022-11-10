@@ -22,7 +22,7 @@
         app:layout_constraintBottom_toBottomOf="@id/gl_h_20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:hint="Browse Articles"
+        android:hint="Browse articles"
         android:textSize="32sp"
         />
 

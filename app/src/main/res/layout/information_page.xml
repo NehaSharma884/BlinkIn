@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SignUpUser">
 
     <TextView
         android:id="@+id/TV_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Computers and Electronics"
-        android:textColor="@color/black"
+        android:textColor="@color/cardview_dark_background"
         android:layout_marginTop="16dp"
         android:background="@drawable/textview_border"
         app:layout_constraintEnd_toEndOf="parent"
@@ -72,7 +72,7 @@
 
                 android:text="Update software in Iphone"
                 android:textSize="8dp"
-                android:textColor="@color/black"
+                android:textColor="@color/cardview_dark_background"
                 android:textAlignment="center"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -110,7 +110,7 @@
 
                 android:text="Windows installation in laptop"
                 android:textSize="8dp"
-                android:textColor="@color/black"
+                android:textColor="@color/cardview_dark_background"
                 android:textAlignment="center"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -148,7 +148,7 @@
 
                 android:text="Setup debit/credit card in smart watch"
                 android:textSize="8dp"
-                android:textColor="@color/black"
+                android:textColor="@color/cardview_dark_background"
                 android:textAlignment="center"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -185,7 +185,7 @@
 
                 android:text="Setup Home Appliances"
                 android:textSize="8dp"
-                android:textColor="@color/black"
+                android:textColor="@color/cardview_dark_background"
                 android:textAlignment="center"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
